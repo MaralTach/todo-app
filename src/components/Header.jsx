@@ -18,7 +18,7 @@ const Header = ({todo, setTodo}) => {
     }
   return (
     <div>
-        <h1 className='text-center text-warning m-5'>Todo List</h1>
+        <h1 className='text-center text-warning m-5'>Todo list</h1>
         <InputGroup className="mb-3 w-50 d-flex mx-auto ">
         <Form.Control
           placeholder="plese enter new todo..."
